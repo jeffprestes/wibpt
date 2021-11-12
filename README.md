@@ -32,14 +32,15 @@ Usando uma linguagem simples, Solidity, a criação de Smart Contracts esta disp
 - Transação no Ethereum
 - Conteúdo de uma transação
 - Ether: o bloco e seus "centavos"
-- Criando uma rede privada
-- Conectando a outro nó de uma rede privada
+- Criando uma rede privada (modulo para DevOps)
+- Conectando a outro nó de uma rede privada (modulo para DevOps)
 - Criando um Smart Contract no Ethereum usando Solidity
 - Calculando custo do Contrato
-- Executando seus contratos em nós privados
-- Executando um contrato na rede principal do Ethereum
-- O que são ERCs
-- ICO: O que são os tokens ERC20 que são vendidos
+- Executando seus contratos em nós privados (modulo para DevOps)
+- Executando um contrato na rede de teste do Ethereum
+- O que são ERCs: ERC-20 e ERC-721
+- Conectando uma página web a um Smart Contract 
+- Enviando dados de uma página web a um Smart Contract usando Metamask
 
 ## Como contratar
 
