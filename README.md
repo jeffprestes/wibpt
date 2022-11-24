@@ -2,16 +2,12 @@
 
 ## Jeff Prestes
 
-Jeff tem mais de 22 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Blockchain e Inteligência Artificial são suas novas paixões. 
-Ele participa de várias comunidades de desenvolvedores, sendo um dos líderes da comunidade Go (Golang) no Brasil e trabalhou diversos anos como Evangelista Técnico, 
-ministrando diversas palestras no Brasil e no Exterior. 
-Tem sua empresa, a NX, onde alia técnicas avançadas de arquitetura de Software com Blockchain para ajudar empresas a inovar e gerar negócios.
+Jeff tem mais de 25 anos de experiência com Desenvolvimento de Software, trabalhando desde 1999 com Internet. Hoje, Blockchain é seu novo foco. Ele participa de várias comunidades de desenvolvedores no Brasil e no mundo. Trabalhou diversos anos como Evangelista Técnico, ministrando diversas palestras no Brasil e no Exterior. Tem sua empresa, a NX, onde alia técnicas avançadas de arquitetura de Software com Blockchain para ajudar empresas a inovar e gerar negócios.
 
 ## Sinopse do workshop
 
 O advento do Bitcoin trouxe uma nova tecnologia: Blockchain. Porém Vitalik Buterin ampliou as suas possibilidades com os Smart Contracts quando criou o https://ethereum.org . 
-Com os Smart Contracts podemos criar aplicações que nunca sairão do ar e seus dados nunca serão perdidos. 
-Usando uma linguagem simples, Solidity, a criação de Smart Contracts esta disponível para todos. Venha em nosso workshop se empoderar aprendendo essa revolucionária tecnologia.
+Com os Smart Contracts podemos criar aplicações que nunca sairão do ar e seus dados nunca serão perdidos. Usando uma linguagem simples, Solidity, a criação de Smart Contracts esta disponível para todos. Venha em nosso workshop se empoderar aprendendo essa revolucionária tecnologia.
 
 ## Conteúdo programático
 
@@ -24,23 +20,21 @@ Usando uma linguagem simples, Solidity, a criação de Smart Contracts esta disp
 - Comparativos das principais redes atuais
 - Exemplo de Rede: Ethereum
 - Tipos de rede Ethereum
-- DApps - Aplicações descentralizadas
-- DApps - Exemplo do Ethereum Stack
-- Clientes Ethereum: Geth, parity e eth
+- DApps- Aplicações descentralizadas
+- DApps- Exemplo do Ethereum Stack
 - Contas no Ethereum
+- Ether: o bloco e seus "centavos"
 - Conceito e conteúdo de um bloco no Ethereum
 - Transação no Ethereum
 - Conteúdo de uma transação
-- Ether: o bloco e seus "centavos"
-- Criando uma rede privada (modulo para DevOps)
-- Conectando a outro nó de uma rede privada (modulo para DevOps)
-- Criando um Smart Contract no Ethereum usando Solidity
+- Clientes Ethereum: Geth e Prysm
+- Conectando um software a rede do Ethereum
+- Introdução Solidity
+- Criando um projeto local de smart contracts com Remix
 - Calculando custo do Contrato
-- Executando seus contratos em nós privados (modulo para DevOps)
-- Executando um contrato na rede de teste do Ethereum
-- O que são ERCs: ERC-20 e ERC-721
-- Conectando uma página web a um Smart Contract 
-- Enviando dados de uma página web a um Smart Contract usando Metamask
+- Executando um contrato na rede principal do Ethereum
+- O que são ERCs
+- Criando um projeto local de smart contracts com Foundry
 
 ## Como contratar
 
